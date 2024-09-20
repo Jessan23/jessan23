@@ -1,0 +1,10 @@
+.post{
+    background-color: black;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+.post header{
+    display: flex;
+    justify-content: ali;
+
+}
