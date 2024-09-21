@@ -9,7 +9,7 @@ body {
     margin: 0;
 }
 .post{
-    width: 400px;
+    width: 405px;
     background-color:white ;
     border: 1px solid #dbdbdb;;
     border-radius: 10px;
@@ -27,7 +27,7 @@ body {
     display: flex;
 }
 .iconos{
-    font-size: 30px;
+    font-size: 50px;
 }
 .instagram{
     font-weight: bold;
@@ -45,4 +45,10 @@ body {
 justify-content: space-between;
 margin-bottom: 10px;
 font: optional;
+}
+.post-body {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    line-height: normal;
 }
