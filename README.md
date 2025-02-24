@@ -1,30 +1,42 @@
-# HTML Hello
+ 👨‍💻 ¡Hola, soy Jessica Anai Raya Grez!
 
-The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
+ 🚀 Sobre mí
+Soy un **desarrollador web** con experiencia en **Flask** y **React**, especializado en la creación de aplicaciones seguras, eficientes y con una excelente experiencia de usuario. Me apasiona el desarrollo backend y la integración de tecnologías para construir soluciones escalables y funcionales.
 
-> There is a video tutorial on [how to use this template to create your very first website here](https://youtu.be/dfbDCMu_p-0).
+ 🛠️ Tecnologías y Herramientas
 
-## What to do next?
+**Backend:**  
+- 🐍 Flask (SQLAlchemy, JWT, Flask-Mail)  
+- 🔐 Autenticación con Firebase Authentication y Auth0  
+- 🗄️ Bases de datos PostgreSQL y MySQL  
+- ☁️ Gestión de imágenes con Cloudinary  
 
-Create an `index.html` file with the [basic HTML structure](http://4geeks.com/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+ **Frontend:**  
+- ⚛️ React con Tailwind CSS  
+- 🌍 Integración de mapas y geolocalización  
+- ❤️ Sistemas de favoritos y notificaciones  
 
-```bash
-$ pip3 install flask && python3 server.py
-```
+ **Metodologías y Enfoque:**  
+- 🏗️ Desarrollo modular y escalable  
+- 📜 Código limpio y buenas prácticas  
+- 🔄 Metodologías ágiles (Scrum, Kanban)  
 
-- You can create as many HTML files as you want.
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+ 📌 Proyectos Destacados
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+### **🌟 SheSpace**
+Aplicación web con foros y área de ventas, enfocada en la seguridad y autonomía femenina. Incluye un sistema de favoritos, autenticación segura y gestión de imágenes.
 
-### Contributors
 
-This template was built as part of the [Full Stack Developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) at [4Geeks Academy Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and [many other contributors](https://github.com/4GeeksAcademy/html-hello/graphs/contributors).
+### **🔐 Sistema de Recuperación de Contraseña**
+Evaluación e implementación de distintas opciones de reseteo de contraseña (Flask-Mail, Firebase Authentication, Auth0).
 
-You can find other templates and resources like this at the [school's GitHub page](https://github.com/4geeksacademy/).
+
+## 📫 Contacto
+Si quieres colaborar en algún proyecto o intercambiar ideas, ¡hablemos!
+
+📩 Email: jessicaanairayagrez@gmail   
+💼 LinkedIn: www.linkedin.com/in/jessica-anai-raya-grez
+ 
+
+---
+⭐ **Si te interesa mi trabajo, considera seguirme en GitHub y darle estrella a mis proyectos.** 🚀
